@@ -15,9 +15,9 @@ A: There were 59 vine (paid) reviews and 13,452 non-vine (unpaid) reviews
 
 A: 34 vine reviews were 5 stars. 7674 non-vine reviews were 5 stars.
 
-* Q: What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+* Q: What percentage of Vine reviews were 5 stars? What percentage of non-vine reviews were 5 stars?
 
-A: About 58% of vine reviews were 5 stars. About 57% of non-Vine reviews were 5 stars
+A: About 58% of vine reviews were 5 stars. About 57% of non-vine reviews were 5 stars
 
 ## Summary
 
