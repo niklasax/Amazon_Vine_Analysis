@@ -27,4 +27,4 @@ A: There doesn't appear to be any positivity bias in Vine program as the non-vin
 
 Q: What would be an additional analysis that you could do with the dataset to support your statement.
 
-A: To further determine if there is positivity bias in Vine reviews, we could look at 4 star reviews as well. This would increase the sample size of the population of total reviews we could look at since 4 stars is considered to still be positive.
+A: To further determine if there is positivity bias in Vine reviews, we could look at 4 star reviews as well. This would increase the sample size of the population of total reviews we could look at to gain a more accurate view of the whole. Another potential analysis would be to run this excercise with more data sets, since the bias of reviews might differ from product category to product category.
